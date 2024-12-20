@@ -52,8 +52,13 @@ Access the Application:
 Open your browser and go to the provided URL (e.g., http://localhost:8501).
 
 Usage 📋
+
 Enter Ingredients: Input a comma-separated list of ingredients in the sidebar.
+
 Set Filters (Optional): Choose meal types, dietary preferences, or cuisines.
+
 Find Recipes: Click "Find Recipes" to view matching results.
+
 Clear Filters: Use the "Clear All Filters" button to reset inputs.
+
 Explore Results: View recipes, used/missing ingredients, and cooking instructions.
