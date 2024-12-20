@@ -15,6 +15,7 @@ Step-by-Step Cooking Instructions: Provides detailed steps to prepare meals.
 Interactive and Intuitive UI: Clean, custom-designed interface for easy navigation.
 
 Setup Instructions ⚙️
+
 Prerequisites
 Python 3.7 or higher.
 A valid Spoonacular API key.
@@ -24,21 +25,31 @@ Spoonacular API Setup:
 
 Sign Up: Create an account at Spoonacular and generate an API key.
 Replace API Key: Open comeletscook.py and replace the API_KEY variable with your Spoonacular API key:
+
 API_KEY = "your_spoonacular_api_key"
 
-Application Setup:
 
+Application Setup:
 Clone the Repository:
+
 git clone https://github.com/yourusername/comeletscook.git
 cd comeletscook
 
-Install Required Libraries: 
+
+*Install Required Libraries:
 Install Streamlit and other dependencies:
+
 pip install streamlit requests
 
-Run the Application: Start the Streamlit server:
+
+*Run the Application:
+Start the Streamlit server:
+
 streamlit run comeletscook.py
-Access the Application: Open your browser and go to the provided URL (e.g., http://localhost:8501).
+
+
+Access the Application:
+Open your browser and go to the provided URL (e.g., http://localhost:8501).
 
 Usage 📋
 Enter Ingredients: Input a comma-separated list of ingredients in the sidebar.
