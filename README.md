@@ -1,4 +1,4 @@
-ComeLetsCook 🍴
+##ComeLetsCook 🍴
 
 ComeLetsCook is a web application that helps users find recipes based on the ingredients they have at hand. Built using Streamlit and powered by the Spoonacular API, this application provides a user-friendly interface for meal planning and cooking.
 
