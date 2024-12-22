@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Your Spoonacular API key
-API_KEY = "a010192bae9d4b83a9013e53cca69a2c"
+API_KEY = "*******"
 
 # Custom CSS for UI improvements
 st.markdown(
